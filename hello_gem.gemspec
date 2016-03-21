@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Andrew Smith"]
   spec.email         = ["andy@robotlovesyou.com"]
 
-  spec.summary       = %q{TODO: This is a gem which says hello. It is very polite}
+  spec.summary       = %q{This is a gem which says hello. It is very polite}
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
